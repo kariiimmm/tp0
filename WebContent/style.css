@@ -1,0 +1,23 @@
+@charset "utf-8";
+h1 {
+	color : #ff8080 ;
+	text-align : center ;
+	
+	
+}
+body {
+	background-image : url(img2.jpg);
+}
+td { 
+	text-align : center ;
+	color : #400000 ;
+	
+}
+button {
+	background-color : #804040 ;
+	border :none ;
+	border-radius: 8px;
+	font-size: 16px ;
+	color : pink;
+	
+}
